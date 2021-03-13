@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "José Barros Sobrindo",
+      "email": "josebarros0101@gmail.com"
+    },
+    {
+      "name": "Lucia de Sousa e Silva Barros",
+      "email": "luciabarros1110@gmail.com",
+      "id": 3
+    }
+  ]
+}
